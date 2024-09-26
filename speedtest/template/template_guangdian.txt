@@ -1,5 +1,5 @@
 CCTV-4Kᵁᴴᴰ,http://ipipip/udp/225.1.101.109:7523
-CCTV-1高清,http://ipipip/udp/225.1.101.12:7523
+CCTV-1高清,http://ipipip/udp/225.1.101.138:11111
 CCTV-2高清,http://ipipip/udp/225.1.101.26:7523
 CCTV-3高清,http://ipipip/udp/225.1.101.121:7523
 CCTV-4高清,http://ipipip/udp/225.1.101.52:7523
